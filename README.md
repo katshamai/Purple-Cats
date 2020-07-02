@@ -17,3 +17,7 @@ Locations specific analysis
 1. What is the area of highest level of change? [Measuring and ranking level of change]
 
 2. Has popular spots changed between pre-COVID and post-COVID? Are people going to different parts of town?  [Measuring and ranking volume of pedestrians]
+
+Data sources:
+City of Melbourne Pedestrian data - https://data.melbourne.vic.gov.au/Transport/Pedestrian-Counting-System-Past-Hour-counts-per-mi/d6mv-s43h
+City of Melbourne Waste data - https://data.melbourne.vic.gov.au/Environment/Waste-collected-per-month/gh9v-yqwz
