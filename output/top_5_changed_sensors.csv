@@ -1,6 +1,11 @@
-Sensor ID,Sensor name,Total count 2019 by sensor,Total count 2020 by sensor,Change in count,Latitude,Longitude
-22,Flinders St-Elizabeth St (East),1337425,445791,-891634,-37.81786445,144.96506823
-24,Spencer St-Collins St (North),1098166,210379,-887787,-37.81887962,144.95449198
-6,Flinders Street Station Underpass,1040433,190959,-849474,-37.81911704,144.96558256
-5,Princes Bridge,958937,156405,-802532,-37.81874249,144.96787656
-4,Town Hall (West),1008211,245937,-762274,-37.81487988,144.9660878
+Sensor ID,Sensor name,Total count 2019 by sensor,Total count 2020 by sensor,Change in count
+22,Flinders St-Elizabeth St (East),1337425,445791,-891634
+24,Spencer St-Collins St (North),1098166,210379,-887787
+6,Flinders Street Station Underpass,1040433,190959,-849474
+5,Princes Bridge,958937,156405,-802532
+4,Town Hall (West),1008211,245937,-762274
+1,Bourke Street Mall (North),979720,269797,-709923
+28,The Arts Centre,728549,104748,-623801
+9,Southern Cross Station,661180,66977,-594203
+35,Southbank,799405,240025,-559380
+57,Bourke St Bridge,587826,37746,-550080
